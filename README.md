@@ -1,3 +1,4 @@
 # WriteUps
-I’m posting a few of the writeups I do so you can check them out 😉
-Anyway, I have a lot of writeups that I don’t publish, so if you have any questions about any of them, feel free to reach out and I might be able to help!
+Aquí voy publicando algunos de los writeups que hago para que los podáis ver 😉 <br> 
+De todas formas, tengo muchos más writeups que no publico, así que si tenéis alguna duda sobre alguno, no dudéis en contactarme y quizá pueda ayudaros.
+
